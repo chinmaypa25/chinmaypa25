@@ -12,7 +12,7 @@
 - **Management Skills**: Project Management, Customer Engagement, Team Leadership, Technical Presentations
 
 ## Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/chinmay-agrawal-467296119/])
+- [LinkedIn](https://www.linkedin.com/in/chinmay-agrawal-456729611/)
 - 📧 Email: chinmaypa25@gmail.com
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
